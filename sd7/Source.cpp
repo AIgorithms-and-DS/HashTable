@@ -1,6 +1,6 @@
 #include "Header.h"
 #include <chrono>
-
+//test gihub
 //1000 < serNo < 2000000
 int main()
 {
@@ -9,7 +9,7 @@ int main()
 	int N = 1000;
 
 	HashTable* table = new HashTable(N * 1.5);
-
+	
 	auto start = chrono::high_resolution_clock::now();
 	for (int i = 0; i < 100; ++i)
 	{

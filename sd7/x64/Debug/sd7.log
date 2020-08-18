@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\artem\source\repos\sd7\sd7\Source.cpp(7,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\artem\source\repos\sd7\sd7\Source.cpp(11,37): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\artem\source\repos\sd7\sd7\Header.h(109): warning C4715: HashTable::getItem: значение возвращается не при всех путях выполнения
+  sd7.vcxproj -> C:\Users\artem\source\repos\sd7\x64\Debug\sd7.exe
